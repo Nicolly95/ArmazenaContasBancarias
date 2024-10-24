@@ -1,0 +1,6 @@
+
+//Ignora todos os arquivos do diretório file:
+
+
+/file/*.txt
+
