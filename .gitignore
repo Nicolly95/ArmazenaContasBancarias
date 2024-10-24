@@ -1,6 +1,9 @@
 
-//Ignora todos os arquivos do diretório file:
-
-
+#Ignora todos os arquivos do diretório file:
 /file/*.txt
 
+# Ignorar o arquivo de contas
+contas.txt
+
+# Ignorar arquivos de compilação do Java
+*.class
